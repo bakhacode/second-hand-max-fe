@@ -2,10 +2,19 @@
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Tech Stack](#tech-stack)
 - [Members](#members)
 - [BE Repositories](#be-repositories)
 - [Dev Log](#dev-log)
+
+## Demo
+
+
+
+https://github.com/bakhacode/second-hand-max-fe/assets/114852081/79b916b5-5734-48b8-888d-a0eaae383c6b
+
+
 
 ## Tech Stack
 
